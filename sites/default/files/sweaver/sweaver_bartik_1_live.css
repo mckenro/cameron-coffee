@@ -1,0 +1,16 @@
+.section #name-and-slogan {
+  font-family: 'Comic Sans MS',Cursive;
+  font-style: normal;
+  text-align: center;
+}
+
+#name-and-slogan #site-slogan {
+  font-family: 'Comic Sans MS',Cursive;
+  font-style: normal;
+  background-color: #ff00ff;
+  border-top-style: dotted;
+  border-right-style: dotted;
+  border-bottom-style: dotted;
+  border-left-style: dotted;
+}
+
